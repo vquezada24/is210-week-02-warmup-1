@@ -1,5 +1,5 @@
 #####################
-IS 210 Assignment ###
+IS 210 Assignment #02
 #####################
 *************
 Warm-Up Tasks
@@ -8,6 +8,7 @@ Warm-Up Tasks
 :College: CUNY School of Professional Studies
 :Course-Name: Software Application Programming I
 :Course-Code: IS 210
+:Lesson: 02
 :Points: 12
 :Due-Date: YYYY-MM-DDTHH:mm:ss
 
