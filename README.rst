@@ -10,7 +10,7 @@ Warm-Up Tasks
 :Course-Code: IS 210
 :Lesson: 02
 :Points: 12
-:Due-Date: YYYY-MM-DDTHH:mm:ss
+:Due-Date: 2015-02-06T09:00:00
 
 Overview
 ========
