@@ -114,7 +114,7 @@ could lose track of file history if done incorrectly.
 Specifications
 ^^^^^^^^^^^^^^
 
-1.  Use ``git mv`` to rename the file, ``Task 3.py`` to ``task_03.py``.
+1.  Use ``git mv`` to rename the file, ``Task 3.txt`` to ``task_03.txt``.
 
     .. hint::
 
