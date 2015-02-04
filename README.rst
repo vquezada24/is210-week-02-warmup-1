@@ -183,11 +183,6 @@ Specifications
 
 5.  Use ``git commit`` to commit your change into the repository.
 
-Executing Tests
-===============
-
-Code must be functional and pass tests before it will be eligible for credit.
-
 Task 06
 -------
 
